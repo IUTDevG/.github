@@ -29,5 +29,3 @@ La collaboration et l’entraide sont au cœur de l’esprit de l’IUT Dev’s 
 ## 🤝 Collaboration & Learning
 
 Collaboration and mutual support are at the core of IUT Dev’s Group. Students are encouraged to contribute to each other’s projects, share feedback and learn together. This space is dedicated to building everyone’s skills through teamwork and by showcasing each other’s work. Joining the organization allows you to collaborate on projects and enhance your skills together!
-
-**Sources:** Organization description and project READMEs.
